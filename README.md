@@ -3,6 +3,7 @@ The purpose of this Python script is to automatically mass export all the drawin
 
 
 Steps
+
     -Dowload the scrip from github
     
     -Access "My Scripts" in "Complements" in fusion360
